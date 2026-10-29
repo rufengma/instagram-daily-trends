@@ -9,8 +9,8 @@ Usage:
       --emotion joy --out assets/2026-10-29.gif [--also-latest assets/latest.gif]
 
 Chinese overlay text uses a CJK font when one is available on the
-system (Noto Sans/Serif CJK); otherwise the banner falls back to
-English only so no tofu boxes are rendered.
+system (Noto Sans/Serif CJK); the daily banner is English-only so it
+renders everywhere without a CJK font.
 """
 import argparse
 import math
@@ -19,14 +19,14 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-EMOTION_ZH = {
-    "joy": "喜悦",
-    "anger": "愤怒",
-    "sadness": "悲伤",
-    "fear": "恐惧",
-    "surprise": "惊讶",
-    "disgust": "厌恶",
-    "neutral": "平静",
+EMOTION_EN = {
+    "joy": "Joy",
+    "anger": "Anger",
+    "sadness": "Sadness",
+    "fear": "Fear",
+    "surprise": "Surprise",
+    "disgust": "Disgust",
+    "neutral": "Neutral",
 }
 
 FONT_CANDIDATES = [
@@ -88,9 +88,9 @@ def main():
     font_big, has_cjk = load_font(max(28, width // 22))
     font_small, _ = load_font(max(20, width // 32))
 
-    zh = EMOTION_ZH.get(args.emotion, args.emotion)
-    banner_main = f"{args.date} · 今日主导情绪：{zh}" if has_cjk else f"{args.date} · {args.emotion.upper()}"
-    banner_sub = f"Dominant emotion: {args.emotion}" if has_cjk else "Instagram Daily Mood"
+    name = EMOTION_EN.get(args.emotion, args.emotion)
+    banner_main = f"{args.date} · {name.upper()}"
+    banner_sub = f"Dominant emotion: {args.emotion}"
 
     random.seed(29)
     floaters = []

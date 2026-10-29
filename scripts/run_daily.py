@@ -12,7 +12,11 @@ reports the day's dominant emotion so the illustration can reflect it:
 
 It writes data/<date>.json. After it runs, generate
 assets/<date>.png (illustration) and assets/<date>.mp4 (animation),
-copy the mp4 to assets/latest.mp4, and update README.md.
+convert the mp4 to an autoplaying GIF with ffmpeg
+(assets/<date>.gif), copy the mp4 and the gif to assets/latest.mp4
+and assets/latest.gif, and update README.md. The README is written
+in English: the GIF is the primary embedded animation (it autoplays
+everywhere), with the HD mp4 linked alongside.
 
 Note: this VM's no_proxy list contains bracketed IPv6 entries that
 break httpx's proxy handling inside huggingface_hub (InvalidURL:
@@ -46,7 +50,8 @@ def main():
     result = json.loads((root / "data" / f"{args.date}.json").read_text(encoding="utf-8"))
     print(f"daily analysis complete for {args.date}: dominant={result['dominant_emotion']}")
     print("next: generate assets/<date>.png + assets/<date>.mp4 via the media pipeline,")
-    print("copy the mp4 to assets/latest.mp4, and update README.md.")
+    print("convert the mp4 to assets/<date>.gif with ffmpeg, copy both to assets/latest.*,")
+    print("and update README.md (English, GIF embedded as the primary animation).")
 
 
 if __name__ == "__main__":

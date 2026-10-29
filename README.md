@@ -1,74 +1,76 @@
-# Instagram 每日趋势情绪
+# Instagram Daily Trend Mood
 
-每天分析 Instagram 最流行趋势里的情绪，用一段油画质感动画把它画出来。
+Every day, we analyze the emotions in Instagram's most popular trends and paint them as a painterly animation.
 
-## 今日动画 · 2026-10-29
+## Today's Animation · 2026-10-29
 
-<video src="assets/latest.mp4" poster="assets/2026-10-29.png" controls autoplay loop muted width="100%"></video>
+![Today's animation](assets/latest.gif)
 
-> 动画里：风吹动头发、海浪起伏、云缓慢漂移、灯光微微闪烁；动画全程保留插画的颗粒与笔触质感，不磨平、不改色。打不开视频的话，[点这里直接打开](assets/latest.mp4)，静态插画在 [assets/2026-10-29.png](assets/2026-10-29.png)。
+> In the animation: wind moves her hair, waves roll, clouds drift slowly, lantern light flickers. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-10-29.png](assets/2026-10-29.png).
 
-## 今日主导情绪：喜悦 🎉
+## Today's Dominant Emotion: Joy 🎉
 
-2026-10-29，Instagram 热门趋势整体是**喜悦**主导：平均喜悦分数 0.52，45 条趋势帖子里有 28 条（62%）的主导情绪是喜悦。
+On 2026-10-29, Instagram's trending topics were overall **joy**-led: mean joy score 0.52, and 28 of 45 trend posts (62%) had joy as their dominant emotion.
 
-## 今日情绪分布
+## Today's Emotion Distribution
 
-| 情绪 | 平均分数 | 主导帖数 | 占比 |
+| Emotion | Mean Score | Dominant Posts | Share |
 | --- | --- | --- | --- |
-| 喜悦 joy | 0.5215 | 28 | 62.2% |
-| 平静 neutral | 0.2185 | 9 | 20.0% |
-| 厌恶 disgust | 0.1126 | 4 | 8.9% |
-| 愤怒 anger | 0.0728 | 3 | 6.7% |
-| 恐惧 fear | 0.0356 | 1 | 2.2% |
-| 惊讶 surprise | 0.0240 | 0 | 0% |
-| 悲伤 sadness | 0.0150 | 0 | 0% |
+| Joy | 0.5215 | 28 | 62.2% |
+| Neutral | 0.2185 | 9 | 20.0% |
+| Disgust | 0.1126 | 4 | 8.9% |
+| Anger | 0.0728 | 3 | 6.7% |
+| Fear | 0.0356 | 1 | 2.2% |
+| Surprise | 0.0240 | 0 | 0% |
+| Sadness | 0.0150 | 0 | 0% |
 
-效价归类：正向 0.5215（喜悦）/ 负向 0.2360（愤怒+悲伤+恐惧+厌恶）/ 中性 0.2425（平静+惊讶，惊讶效价不定，计入中性）。
+Valence rollup: positive 0.5215 (joy) / negative 0.2360 (anger + sadness + fear + disgust) / neutral 0.2425 (neutral + surprise; surprise has no fixed valence, counted as neutral).
 
-## 今日热门趋势
+## Today's Top Trends
 
-| 趋势话题 | 帖数 |
+| Trend | Posts |
 | --- | --- |
-| Karwa Chauth × Priyanka Chopra（宝莱坞明星过 Karwa Chauth、henna 庆祝） | 29 |
-| Jennifer Lawrence × Call Her Daddy（播客玩笑、《饥饿游戏》回归、当妈后的工作方式） | 16 |
+| Karwa Chauth × Priyanka Chopra (Bollywood star celebrating Karwa Chauth, henna festivities) | 29 |
+| Jennifer Lawrence × Call Her Daddy (podcast jokes, Hunger Games return, working after motherhood) | 16 |
 
-样本：45 条趋势帖子，取自 2026-10-27～10-29 的趋势周期。
+Sample: 45 trend posts, from the 2026-10-27 to 2026-10-29 trend window.
 
-## 每天怎么运作
+## How It Works, Every Day
 
-1. **发现趋势**：通过公开 Instagram 趋势发现（按互动热度排序）找到当天热门话题下的帖子。
-2. **情绪分析**：用 7 类情绪 transformer 模型（`j-hartmann/emotion-english-distilroberta-base`）给每条帖子打分，汇总成当日情绪分布。
-3. **插画**：按当日主导情绪和热门趋势生成一张油画质感插画（颗粒、松散笔触、蓝绿色调）。
-4. **动画**：把插画做成一段 10 秒动画（风、海浪、云、灯光都在动），嵌在 README 顶部。
-5. **归档**：当日数据存为 `data/YYYY-MM-DD.json`，插画和动画存为 `assets/YYYY-MM-DD.png` / `.mp4`。
+1. **Discover trends**: find the day's hot topics and posts through public Instagram trend discovery, ranked by engagement.
+2. **Emotion analysis**: score every post with a 7-way emotion transformer model (`j-hartmann/emotion-english-distilroberta-base`) and aggregate into the day's emotion distribution.
+3. **Illustration**: generate one painterly illustration for the day's dominant emotion and top trends (grain, loose brushstrokes, muted blue-green palette).
+4. **Animation**: turn the illustration into a 10-second animation (wind, waves, clouds, light all moving) and embed it at the top of the README as an autoplaying GIF, with the HD video linked alongside.
+5. **Archive**: the day's data is saved as `data/YYYY-MM-DD.json`; the illustration and animation as `assets/YYYY-MM-DD.png` / `.mp4` / `.gif`.
 
-## 数据说明（请先读）
+## Data Notes (Please Read First)
 
-- **数据来源**：公开 Instagram 趋势发现，未连接任何 Instagram 账号；本项目与 Instagram / Meta 无关。
-- **分析对象**：模型打分依据的是帖子内容描述（搜索结果摘要），不是原始 caption 全文；样本是趋势话题下的近期帖子，不是全站普查，结果反映的是热门趋势的情绪，不是全体用户的情绪。
-- **插画与动画**：均为 AI 生成；插画风格参考图为私人图片，未收入本仓库。
-- **情绪是模型推断**：分数是模型对文本的推断，不是用户自报的情绪，看看趋势就好，别当精确民调。
+- **Data source**: public Instagram trend discovery. No Instagram account is connected. This project is not affiliated with Instagram / Meta.
+- **What is analyzed**: model scores are based on post descriptions (search-result summaries), not full raw captions. The sample is recent posts under trending topics, not a platform-wide census — it reflects the mood of hot trends, not of all users.
+- **Illustration and animation**: both AI-generated. The illustration style reference is a private image and is not included in this repo.
+- **Emotions are model inferences**: scores are what the model infers from text, not self-reported feelings. Treat it as a trend sketch, not a precise poll.
 
-## 仓库结构
+## Repo Structure
 
 ```
 instagram-daily-mood/
-├── README.md                  # 今日动画 + 今日情绪（每天更新）
+├── README.md                  # Today's animation + today's mood (updated daily)
 ├── assets/
-│   ├── latest.mp4             # 最新一天的动画
-│   ├── YYYY-MM-DD.mp4         # 每天的动画
-│   └── YYYY-MM-DD.png         # 每天的插画原图
+│   ├── latest.gif             # Latest day's animation (autoplaying)
+│   ├── latest.mp4             # Latest day's animation (HD video)
+│   ├── YYYY-MM-DD.gif         # Each day's animation
+│   ├── YYYY-MM-DD.mp4         # Each day's animation (HD video)
+│   └── YYYY-MM-DD.png         # Each day's illustration
 ├── data/
-│   ├── YYYY-MM-DD.json        # 每天的情绪分布 + 逐条帖子打分
-│   └── raw/YYYY-MM-DD.json    # 每天的原始趋势帖子
+│   ├── YYYY-MM-DD.json        # Each day's emotion distribution + per-post scores
+│   └── raw/YYYY-MM-DD.json    # Each day's raw trend posts
 └── scripts/
-    ├── normalize.py           # 原始搜索结果 → data/raw
-    ├── analyze.py             # transformer 情绪分析 → data
-    ├── animate.py             # GIF 工具（备用；日常输出以视频为主）
-    └── run_daily.py           # 每日分析编排
+    ├── normalize.py           # Raw search results → data/raw
+    ├── analyze.py             # Transformer emotion analysis → data
+    ├── animate.py             # GIF utility (fallback; daily output is video → GIF)
+    └── run_daily.py           # Daily analysis orchestration
 ```
 
-## 往期归档
+## Archive
 
-- [2026-10-29](data/2026-10-29.json) — 主导情绪：喜悦 · 动画：[assets/2026-10-29.mp4](assets/2026-10-29.mp4)
+- [2026-10-29](data/2026-10-29.json) — Dominant emotion: Joy · Animation: [GIF](assets/2026-10-29.gif) · [Video](assets/2026-10-29.mp4)

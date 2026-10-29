@@ -34,7 +34,7 @@ def topic_of(post):
         return "Karwa Chauth × Priyanka Chopra"
     if "odisha" in text or "disaster preparedness" in text:
         return "Odisha Disaster Preparedness Day"
-    return "其他今日内容"
+    return "Other trending content"
 
 
 def main():
