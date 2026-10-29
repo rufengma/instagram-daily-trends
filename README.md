@@ -38,7 +38,7 @@ The 2026 look: softer defined brows, breathable "porcelain doll" skin, lifted co
 ## Repo Structure
 
 ```
-instagram-daily-mood/
+instagram-daily-trends/
 ├── README.md                  # Today's animation + today's trends (updated daily)
 ├── assets/
 │   ├── latest.gif             # Latest day's animation (autoplaying)

@@ -1,4 +1,4 @@
-"""Daily pipeline checklist and output verification for instagram-daily-mood.
+"""Daily pipeline checklist and output verification for instagram-daily-trends.
 
 The repo no longer analyzes mood. Each day, the agent:
   1. Discovers what is currently trending on Instagram in fashion,
