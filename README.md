@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-10-29
+## Today's Animation · 2026-10-30
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, fireplace and candle flames flicker, chandelier light shimmers. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-10-29.png](assets/2026-10-29.png).
+> In the animation: her hair sways softly, fireplace and candle flames flicker, chandelier light shimmers. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-10-30.png](assets/2026-10-30.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Fall outfit vibes: layered autumn dressing
+### 👗 Fashion — Layered fall outfits, styled day after day
 
-Oversized knit sweaters, turtlenecks, blazers, trench coats and wool coats, wide-leg trousers, pleated midi skirts, loafers, ballet flats and ankle boots — in neutral tones: navy, brown, black, beige, olive.
+Layered autumn outfits keep dominating: oversized knit sweaters, suede and leather jackets, trench coats, wide-leg trousers, pleated skirts, loafers and ankle boots in browns, beige, navy and olive. Popular formats include "the outfit vs the inspo" reels built around fall colors and multi-day outfit series like "20 Days of Autumn Outfits" and "just add layers" lookbooks.
 
-### 🛋️ Home Decor — Cozy fall living rooms
+### 🛋️ Home Decor — Cozy fall living rooms, now with Halloween touches
 
-White sectional sofas, chunky knit blankets, lit candles, chandeliers, wood ceilings and fireplaces; a warm, inviting autumn atmosphere. A second popular thread: moody makeovers with dark fireplaces, cognac leather sofas, Persian-style rugs, brass accents and velvet curtains.
+White sectional sofas, chunky knit blankets, lit candles, chandeliers, wood ceilings and fireplaces set the cozy fall living room. With Halloween a day away, decorating reels surge: ceramic ghosts, pumpkin-shaped candles, dried botanicals, pinecones and faux spiders layered over the same warm autumn base.
 
-### 💄 Beauty — 2026 soft natural makeup vs 2016 glam
+### 💄 Beauty — Soft fall glam
 
-The 2026 look: softer defined brows, breathable "porcelain doll" skin, lifted concealer instead of heavy contour, soft-sculpted blush, glam half-lash, targeted highlight, fuller lips finished with gloss. Nostalgia for 2016 full glam runs alongside it.
+Soft fall glam leads: breathable base, cream contour and blush blended for a soft-sculpted finish, soft brows, fluttery lashes and glossy lips. Tutorials label the look "soft fall glam" or "soft natural fall glam", often finished in a few minutes with cream products and lip gloss.
 
 ## How It Works, Every Day
 
@@ -54,4 +54,5 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-10-30](data/2026-10-30.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-30.gif) · [Video](assets/2026-10-30.mp4)
 - [2026-10-29](data/2026-10-29.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-29.gif) · [Video](assets/2026-10-29.mp4)
