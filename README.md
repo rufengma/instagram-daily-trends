@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-10-31
+## Today's Animation · 2026-11-01
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, fireplace and candle flames flicker, chandelier light shimmers. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-10-31.png](assets/2026-10-31.png).
+> In the animation: her hair sways softly, fireplace and candle flames flicker, chandelier light shimmers, and steam drifts up from her coffee cup. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-01.png](assets/2026-11-01.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Halloween outfit inspo, built on layered fall staples
+### 👗 Fashion — Layered fall outfits, back to everyday staples after Halloween
 
-Halloween-night outfit reels lead on October 31: flat-lay costume guides (Alice, Lalaloopsy, Princess, Hungry Caterpillar, Unicorn, Calico Critter, Precious Moments), Halloween-print cardigans, pumpkin-print vests and striped sweaters worn with mini skirts, tights and knee-high boots, plus horror-nights looks in haunted-house prints and fishnets. Underneath it all is the same layered fall base: trench coats, chunky knit sweaters, wide-leg trousers, loafers and over-the-knee boots in beige, camel, brown and black.
+The day after Halloween, fashion returns to everyday layered fall staples: trench coats in camel, olive and black over oversized knit sweaters and turtlenecks, wide-leg trousers and straight-leg jeans, loafers, ballet flats and ankle boots in beige, brown and black. Suede jackets, mini skirts with sheer tights and knee-high boots, and an Abercrombie fall lookbook keep the same warm-neutral palette going into November.
 
-### 🛋️ Home Decor — Halloween-night living rooms: cozy fall base, fully spooked
+### 🛋️ Home Decor — Cozy fall living rooms, candlelit and layered
 
-Light sectional sofas, chunky knit blankets, lit fireplaces, chandeliers and candles set the cozy fall base. For Halloween night it gets fully spooked: pumpkin-shaped decor, ceramic ghosts and pumpkin candles on the mantel, dried botanicals, black bat cutouts, faux cobwebs draped over chandeliers, skeleton hands, mummy canisters and even a life-sized mummy figure folded into otherwise neutral, upscale rooms. Atmospheric night tours show the same rooms glowing with lamps and candlelight.
+Cozy fall living rooms stay candlelit and layered: light-colored sectional sofas with brown and cream pillows and chunky knit throws, lit fireplaces, chandeliers, candles on mantels and coffee tables, and dried hydrangeas and eucalyptus in vases. Small white pumpkins linger as the last fall accents, and evening tours show the same rooms glowing with warm lamp and candlelight.
 
-### 💄 Beauty — Last-minute Halloween makeup: clown, doll, and simple spooky looks
+### 💄 Beauty — Soft fall glam, warm and glowy
 
-On Halloween day, transformation reels overtake everyday fall glam. A playful clown look is built on harlequin diamonds stamped above the brows and beneath the eyes, with winged liner, a black-dotted nose and an extended red smile. A theatrical horror look pairs a pale base and dramatic black smoky eyes with extra eyes painted on the cheeks and a third eye on the forehead. And for last-minute looks, creators keep it simple: dark winged liner, red lips, and thin vein- or crack-like lines across the cheeks and forehead for a demonic, undead effect.
+Soft fall glam holds as the everyday beauty look: warm-toned eyeshadow, softly defined eyes with winged liner and mascara, cream blush and contour for a warm, sculpted cheek, and glossy nude-pink lips over a dewy, light base. Tutorials frame it as the go-to routine for fall — polished but wearable, with highlighter and setting spray to keep the glow.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-01](data/2026-11-01.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-01.gif) · [Video](assets/2026-11-01.mp4)
 - [2026-10-31](data/2026-10-31.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-31.gif) · [Video](assets/2026-10-31.mp4)
 - [2026-10-30](data/2026-10-30.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-30.gif) · [Video](assets/2026-10-30.mp4)
 - [2026-10-29](data/2026-10-29.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-29.gif) · [Video](assets/2026-10-29.mp4)
