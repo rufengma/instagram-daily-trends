@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-02
+## Today's Animation · 2026-11-03
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, fireplace and candle flames flicker, chandelier light shimmers, and steam drifts up from her coffee cup. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-02.png](assets/2026-11-02.png).
+> In the animation: her hair sways softly, fireplace and wood-stove flames flicker, chandelier light shimmers, candle flames dance, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-03.png](assets/2026-11-03.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Layered fall outfits, just add layers — lace peeking under sweaters
+### 👗 Fashion — Statement-coat layering — fur cuffs, belted coats, leopard
 
-November layering is all about the details: sheer lace tops peeking out at the neckline and wrists under oversized sweaters and argyle knits, brown suede jackets over flared jeans, and knee-high boots to finish. One viral styling trick layers an oversized top over a striped long-sleeve shirt, tying the shirt at the waist for an asymmetrical skirt effect in three colorways, while a "just add layers" London lookbook pairs the same suede-and-argyle formula with a tote and sunglasses.
+Statement outerwear is doing the talking in fall layering: a viral NYC street montage cycles through a burgundy cropped jacket with large fur cuffs over wide-leg jeans, a long brown belted coat, a black fringed coat, and a leopard-print peplum jacket, while luxury lookbooks pile on long coats, capes, trench coats and fur accents over layered knits, with designer totes and gloves to finish.
 
-### 🛋️ Home Decor — Warm-lit evening living rooms, chandeliers and fireplaces
+### 🛋️ Home Decor — Cozy autumn-evening living rooms — candlelight, chandeliers, wood stoves
 
-Evening living rooms glow without going overboard on pumpkins: light-colored sectionals with brown and cream pillows and chunky knit throws, lit fireplaces topped with gold-framed mirrors, crystal chandeliers, and candles and dried hydrangeas and eucalyptus on coffee tables. Slow panning tours at night show the same formula — warm lamp and candlelight, dark wood beams and coffee tables, gallery walls — with one creator proudly noting "not a pumpkin in sight" for a more refined fall look.
+Post-Halloween living rooms settle into warm evening coziness: tufted sofas with chunky knit throws and dark green pillows, lit fireplaces under gold-framed mirrors, crystal chandeliers, candles and fairy lights, wood-burning stoves, and coffee tables styled with dried hydrangeas and eucalyptus. Slow evening tours lean into lamp and candlelight rather than seasonal kitsch.
 
-### 💄 Beauty — Toasty fall makeup, warm and sun-kissed
+### 💄 Beauty — Fall makeup diaries — skin tints, cream blush, plum and burgundy
 
-Toasty fall makeup is the warm, sun-kissed look beginners are copying: hydrating skincare first, bronzer placed high on cheekbones, temples and forehead and blended into the hairline, terracotta and toasted-teddy blush with pumpkin-and-cinnamon undertones, brown eyeshadow tapped on the lids, tightlined eyes, faux freckles, and glossy nude lips. A 180K-like full-face tutorial follows the same soft-glam grammar — primer, satin foundation, color-correcting concealer, liquid blush, smoky eyes with winged liner, and lip gloss on top.
+Fall makeup diaries keep it wearable: affordable base routines built on gripping primer, skin tint and liquid contour, cream blush blended with a sponge, softly lined eyes and mascara — then a bolder turn for fall and winter with deep plum and burgundy eyeshadow, flushed blush, and dark glossy burgundy lips.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-03](data/2026-11-03.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-03.gif) · [Video](assets/2026-11-03.mp4)
 - [2026-11-02](data/2026-11-02.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-02.gif) · [Video](assets/2026-11-02.mp4)
 - [2026-11-01](data/2026-11-01.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-01.gif) · [Video](assets/2026-11-01.mp4)
 - [2026-10-31](data/2026-10-31.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-10-31.gif) · [Video](assets/2026-10-31.mp4)
