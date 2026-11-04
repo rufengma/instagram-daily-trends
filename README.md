@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-03
+## Today's Animation · 2026-11-04
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, fireplace and wood-stove flames flicker, chandelier light shimmers, candle flames dance, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-03.png](assets/2026-11-03.png).
+> In the animation: her hair sways softly, fireplace flames flicker, candle flames dance, lamplight shimmers, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-04.png](assets/2026-11-04.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Statement-coat layering — fur cuffs, belted coats, leopard
+### 👗 Fashion — Autumn city-to-cabin layering — burgundy coats, camel trenches, cozy knits
 
-Statement outerwear is doing the talking in fall layering: a viral NYC street montage cycles through a burgundy cropped jacket with large fur cuffs over wide-leg jeans, a long brown belted coat, a black fringed coat, and a leopard-print peplum jacket, while luxury lookbooks pile on long coats, capes, trench coats and fur accents over layered knits, with designer totes and gloves to finish.
+Autumn dressing moves from city streets to cozy cabins: a viral New York lookbook cycles through a burgundy coat, camel trench, long gray coat and cream turtleneck with wide-leg pants, while a pastel knit set pairs oversized sweaters, plaid skirts, knee-high socks and teddy-bear-motif scarves and bags for cabin weekends, and a Paris carousel styles a brown cropped leather trench with black pants and pointed heels.
 
-### 🛋️ Home Decor — Cozy autumn-evening living rooms — candlelight, chandeliers, wood stoves
+### 🛋️ Home Decor — Fall mantels and dried-botanical styling — pomegranates, eucalyptus, velvet pumpkins
 
-Post-Halloween living rooms settle into warm evening coziness: tufted sofas with chunky knit throws and dark green pillows, lit fireplaces under gold-framed mirrors, crystal chandeliers, candles and fairy lights, wood-burning stoves, and coffee tables styled with dried hydrangeas and eucalyptus. Slow evening tours lean into lamp and candlelight rather than seasonal kitsch.
+The mantel is the fall focal point: one time-lapse builds a lush, asymmetrical garland of deep red foliage, berries and whole pomegranates over a stone fireplace, a popular home tour styles dried burgundy eucalyptus in a gold vase with velvet pumpkin pillows and brass accents, and a seasonal transformation layers pumpkin candles, dried botanicals and plush pumpkin pillows around a lit fireplace.
 
-### 💄 Beauty — Fall makeup diaries — skin tints, cream blush, plum and burgundy
+### 💄 Beauty — Toasty fall makeup — warm bronzer, terracotta blush, soft brown eyes
 
-Fall makeup diaries keep it wearable: affordable base routines built on gripping primer, skin tint and liquid contour, cream blush blended with a sponge, softly lined eyes and mascara — then a bolder turn for fall and winter with deep plum and burgundy eyeshadow, flushed blush, and dark glossy burgundy lips.
+Fall makeup turns toasty and warm: a beginner tutorial builds a sun-kissed look with bronzer placed high on the cheekbones, temples and forehead, a toasty reddish-terracotta blush and brown eyeshadow, while a soft fall routine pairs brown liner and a soft wing with cream blush, nude-brown glossy lips and shimmery lids, and a first-fall-look tutorial keeps it soft with cream blush, cafe-toned eyeshadow and a chocolate balm.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-04](data/2026-11-04.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-04.gif) · [Video](assets/2026-11-04.mp4)
 - [2026-11-03](data/2026-11-03.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-03.gif) · [Video](assets/2026-11-03.mp4)
 - [2026-11-02](data/2026-11-02.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-02.gif) · [Video](assets/2026-11-02.mp4)
 - [2026-11-01](data/2026-11-01.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-01.gif) · [Video](assets/2026-11-01.mp4)
