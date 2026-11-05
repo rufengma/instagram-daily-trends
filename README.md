@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-04
+## Today's Animation · 2026-11-05
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, fireplace flames flicker, candle flames dance, lamplight shimmers, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-04.png](assets/2026-11-04.png).
+> In the animation: her hair sways softly, the fireplace and candle flames flicker, lamplight shimmers, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-05.png](assets/2026-11-05.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Autumn city-to-cabin layering — burgundy coats, camel trenches, cozy knits
+### 👗 Fashion — November fur trim and animal print — fur-trimmed coats, pencil mini skirts
 
-Autumn dressing moves from city streets to cozy cabins: a viral New York lookbook cycles through a burgundy coat, camel trench, long gray coat and cream turtleneck with wide-leg pants, while a pastel knit set pairs oversized sweaters, plaid skirts, knee-high socks and teddy-bear-motif scarves and bags for cabin weekends, and a Paris carousel styles a brown cropped leather trench with black pants and pointed heels.
+November belongs to fur trim and animal print: a November 2026 trends roundup spotlights matching fur-trimmed capes and skirts plus animal-print coats with fur trim — a fur scarf tied at the waist works as the no-buy version — while a New York fall-fashion segment (60K likes) shows a tiger-print faux-fur coat over a pink dress, a bold red power suit and cobalt blue, and a style-predictions carousel forecasts striped socks with ballet flats and vintage L.L.Bean fleeces.
 
-### 🛋️ Home Decor — Fall mantels and dried-botanical styling — pomegranates, eucalyptus, velvet pumpkins
+### 🛋️ Home Decor — The November decor flip and Thanksgiving tables — cozy holiday styling, gold/burgundy/sage
 
-The mantel is the fall focal point: one time-lapse builds a lush, asymmetrical garland of deep red foliage, berries and whole pomegranates over a stone fireplace, a popular home tour styles dried burgundy eucalyptus in a gold vase with velvet pumpkin pillows and brass accents, and a seasonal transformation layers pumpkin candles, dried botanicals and plush pumpkin pillows around a lit fireplace.
+November 1 flips the house from fall to cozy holiday: one 11K-like reel swaps autumn styling for Christmas touches overnight, a fall decorating finale layers sequin runners, pampas grass, a lit fall tree and a plush pumpkin on the sofa, and a Thanksgiving table tour builds three looks on one small table — Classic Gold, Rich Burgundy and Modern Sage — around a fruit-and-flower centerpiece.
 
-### 💄 Beauty — Toasty fall makeup — warm bronzer, terracotta blush, soft brown eyes
+### 💄 Beauty — Toasty fall glam — warm brown eyes, cream blush, glossy brown lips
 
-Fall makeup turns toasty and warm: a beginner tutorial builds a sun-kissed look with bronzer placed high on the cheekbones, temples and forehead, a toasty reddish-terracotta blush and brown eyeshadow, while a soft fall routine pairs brown liner and a soft wing with cream blush, nude-brown glossy lips and shimmery lids, and a first-fall-look tutorial keeps it soft with cream blush, cafe-toned eyeshadow and a chocolate balm.
+Fall glam turns toasty: a 'Toasty Fall Girl Glam' routine builds a warm look with foundation, concealer, cream blush, warm brown eyeshadow and false lashes, a soft autumn routine pairs a liquid base with cream blush, powder bronzer and shimmery winged liner, and a fall lip-combo tutorial cycles through brown liner-and-gloss pairings, while an 8.2K-like autumn makeup tutorial layers pink cream blush with bronzer and false lashes.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-05](data/2026-11-05.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-05.gif) · [Video](assets/2026-11-05.mp4)
 - [2026-11-04](data/2026-11-04.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-04.gif) · [Video](assets/2026-11-04.mp4)
 - [2026-11-03](data/2026-11-03.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-03.gif) · [Video](assets/2026-11-03.mp4)
 - [2026-11-02](data/2026-11-02.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-02.gif) · [Video](assets/2026-11-02.mp4)
