@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-05
+## Today's Animation · 2026-11-06
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, the fireplace and candle flames flicker, lamplight shimmers, and steam drifts up from her coffee mug. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-05.png](assets/2026-11-05.png).
+> In the animation: her hair sways softly, the fireplace and candle flames flicker, lamplight shimmers, steam drifts up from her coffee mug, and the Christmas tree lights twinkle faintly. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-06.png](assets/2026-11-06.png).
 
 ## Today's Trends
 
-### 👗 Fashion — November fur trim and animal print — fur-trimmed coats, pencil mini skirts
+### 👗 Fashion — Faux-fur cropped jackets and the viral "style different fonts" challenge — brown faux fur, zebra print, baroque puffers
 
-November belongs to fur trim and animal print: a November 2026 trends roundup spotlights matching fur-trimmed capes and skirts plus animal-print coats with fur trim — a fur scarf tied at the waist works as the no-buy version — while a New York fall-fashion segment (60K likes) shows a tiger-print faux-fur coat over a pink dress, a bold red power suit and cobalt blue, and a style-predictions carousel forecasts striped socks with ballet flats and vintage L.L.Bean fleeces.
+Fur keeps dominating the November feed: a carousel posted today (15K likes) pairs a voluminous brown faux-fur cropped jacket with light-wash wide-leg jeans and black-and-white zebra-print pointed shoes; a 17K-like subway reel wears a cropped brown faux-fur coat open over a black lace bralette, and a 7.4K-like carousel centers a leopard-print faux-fur jacket with low-rise jeans. Meanwhile the week's biggest fashion viral (770K likes) is a creator styling nine outfits as typefaces — Times New Roman as a pinstripe suit, Impact as tactical streetwear, Papyrus as bohemian layers, Futura as all-white tech — and Supreme's fall/winter lookbook (28K likes) leans on baroque-print puffers, Fair Isle cardigans and fur trapper hats.
 
-### 🛋️ Home Decor — The November decor flip and Thanksgiving tables — cozy holiday styling, gold/burgundy/sage
+### 🛋️ Home Decor — Christmas decor takes over in early November — red velvet trees, Dollar Tree hauls, Thanksgiving tablescapes
 
-November 1 flips the house from fall to cozy holiday: one 11K-like reel swaps autumn styling for Christmas touches overnight, a fall decorating finale layers sequin runners, pampas grass, a lit fall tree and a plush pumpkin on the sofa, and a Thanksgiving table tour builds three looks on one small table — Classic Gold, Rich Burgundy and Modern Sage — around a fruit-and-flower centerpiece.
+The feed flipped to Christmas fast: a 64K-like carousel centers a tall tree in red velvet ribbons, heart ornaments, red berries and warm white lights with gold reindeer statues at its base, a 44K-like cinematic "Our Home at Christmas" tour layers wreaths, garlands, red taper candles and a chandelier wrapped in greenery, and a 15K-like reel catches a partner who fully decorated the house by November 2. Budget hauls ride along — a 17K-like Dollar Tree roundup of $1.25 pine-tree dinnerware, velvet ribbon trees and $1 velvet ornaments — while Thanksgiving still gets its moment: a 21K-like reel builds a centerpiece from a white-pumpkin vase of hydrangeas and pumpkin candle holders with pinecones and pears.
 
-### 💄 Beauty — Toasty fall glam — warm brown eyes, cream blush, glossy brown lips
+### 💄 Beauty — Brown lip combos lead the fall glam — espresso lips, cream blush, warm eyes
 
-Fall glam turns toasty: a 'Toasty Fall Girl Glam' routine builds a warm look with foundation, concealer, cream blush, warm brown eyeshadow and false lashes, a soft autumn routine pairs a liquid base with cream blush, powder bronzer and shimmery winged liner, and a fall lip-combo tutorial cycles through brown liner-and-gloss pairings, while an 8.2K-like autumn makeup tutorial layers pink cream blush with bronzer and false lashes.
+Brown lips are the defining fall look: a 39K-like tutorial swatches a KIKO Milano brown liner, matte brown lipstick and shimmery gloss as "my brown fall lip combo," and a 29K-like "lip combo for november" layers a MAC pencil with Rhode's Peptide Lip Treatment from a pumpkin-shaped case. Warm glam fills out the rest — a 21K-like warm fall tutorial pairs pink cream blush with a JUDYDOLL eye palette and CANMAKE mascara, a 41K-like routine centers Charlotte Tilbury pink blush with Airbrush setting spray, and a 71K-like GRWM builds a Qawali-night look with defined eyes, rosy cheeks and glossy lips.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-06](data/2026-11-06.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-06.gif) · [Video](assets/2026-11-06.mp4)
 - [2026-11-05](data/2026-11-05.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-05.gif) · [Video](assets/2026-11-05.mp4)
 - [2026-11-04](data/2026-11-04.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-04.gif) · [Video](assets/2026-11-04.mp4)
 - [2026-11-03](data/2026-11-03.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-03.gif) · [Video](assets/2026-11-03.mp4)
