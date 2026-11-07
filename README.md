@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-06
+## Today's Animation · 2026-11-07
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her hair sways softly, the fireplace and candle flames flicker, lamplight shimmers, steam drifts up from her coffee mug, and the Christmas tree lights twinkle faintly. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-06.png](assets/2026-11-06.png).
+> In the animation: her curly hair sways softly, steam drifts up from her coffee mug, the fireplace flames flicker, the Christmas tree lights twinkle faintly, and the candle on the coffee table glows. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-07.png](assets/2026-11-07.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Faux-fur cropped jackets and the viral "style different fonts" challenge — brown faux fur, zebra print, baroque puffers
+### 👗 Fashion — Burgundy faux fur goes floor-length — oversized coats, leopard print, November outfit montages
 
-Fur keeps dominating the November feed: a carousel posted today (15K likes) pairs a voluminous brown faux-fur cropped jacket with light-wash wide-leg jeans and black-and-white zebra-print pointed shoes; a 17K-like subway reel wears a cropped brown faux-fur coat open over a black lace bralette, and a 7.4K-like carousel centers a leopard-print faux-fur jacket with low-rise jeans. Meanwhile the week's biggest fashion viral (770K likes) is a creator styling nine outfits as typefaces — Times New Roman as a pinstripe suit, Impact as tactical streetwear, Papyrus as bohemian layers, Futura as all-white tech — and Supreme's fall/winter lookbook (28K likes) leans on baroque-print puffers, Fair Isle cardigans and fur trapper hats.
+A 94K-like carousel leads with a floor-length oversized burgundy faux-fur coat worn over a sheer leopard-print bodysuit, and a 47K-like lookbook styles a light beige faux-fur hooded jacket open over a striped hoodie with pink sweatpants and silver sneakers. A 5.5K-like "NOVEMBER OUTFITS" montage cycles through about 15 layered looks — burgundy leather midi skirt, beige trench coat, burgundy double-breasted coat, fur-collar brown leather coat — past luxury storefronts, while the cropped brown faux-fur jacket over a black lace bralette keeps resurfacing in subway looks.
 
-### 🛋️ Home Decor — Christmas decor takes over in early November — red velvet trees, Dollar Tree hauls, Thanksgiving tablescapes
+### 🛋️ Home Decor — Christmas decorating goes full burgundy-and-green — crystal trees, flocked trees, tree guides
 
-The feed flipped to Christmas fast: a 64K-like carousel centers a tall tree in red velvet ribbons, heart ornaments, red berries and warm white lights with gold reindeer statues at its base, a 44K-like cinematic "Our Home at Christmas" tour layers wreaths, garlands, red taper candles and a chandelier wrapped in greenery, and a 15K-like reel catches a partner who fully decorated the house by November 2. Budget hauls ride along — a 17K-like Dollar Tree roundup of $1.25 pine-tree dinnerware, velvet ribbon trees and $1 velvet ornaments — while Thanksgiving still gets its moment: a 21K-like reel builds a centerpiece from a white-pumpkin vase of hydrangeas and pumpkin candle holders with pinecones and pears.
+A 4.6K-like "Decorate for Christmas with me" reel layers burgundy velvet bows, crystal trees, garland with lights over an arched mirror and stockings under a Santa-painting mantel; an 8.3K-like reel rebuilds a gift display beneath a black marble fireplace, and a 7.2K-like showroom tour assembles a white flocked tree with warm white lights. How-to content keeps pace — a 6.1K-like Michaels guide compares gold tinsel trees and mercury-glass ornaments — while an 11K-like "Dear 2027, I am ready" reel in red plaid pajamas already sets a New Year table.
 
-### 💄 Beauty — Brown lip combos lead the fall glam — espresso lips, cream blush, warm eyes
+### 💄 Beauty — "Winterkissed" makeup goes viral — glossy lips, heavy pink blush, shimmery pink eyes
 
-Brown lips are the defining fall look: a 39K-like tutorial swatches a KIKO Milano brown liner, matte brown lipstick and shimmery gloss as "my brown fall lip combo," and a 29K-like "lip combo for november" layers a MAC pencil with Rhode's Peptide Lip Treatment from a pumpkin-shaped case. Warm glam fills out the rest — a 21K-like warm fall tutorial pairs pink cream blush with a JUDYDOLL eye palette and CANMAKE mascara, a 41K-like routine centers Charlotte Tilbury pink blush with Airbrush setting spray, and a 71K-like GRWM builds a Qawali-night look with defined eyes, rosy cheeks and glossy lips.
+The day's biggest beauty post is a 75K-like "winterkissed makeup" reel — voluminous curled brown hair, glossy lips, heavy pink blush, shimmery pink eyeshadow and winged liner. A 2.6K-like '90s plum tutorial skips bronzer entirely, pairing MERIT mauve cream shadow with a nude-brown liner, Poundcake plum gloss and Gucci berry blush, while a 3K-like fall routine layers Rhode Pocket Bronze with Westman Atelier contour for an everyday warm glow.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-07](data/2026-11-07.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-07.gif) · [Video](assets/2026-11-07.mp4)
 - [2026-11-06](data/2026-11-06.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-06.gif) · [Video](assets/2026-11-06.mp4)
 - [2026-11-05](data/2026-11-05.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-05.gif) · [Video](assets/2026-11-05.mp4)
 - [2026-11-04](data/2026-11-04.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-04.gif) · [Video](assets/2026-11-04.mp4)
