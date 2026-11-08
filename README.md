@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-07
+## Today's Animation · 2026-11-08
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her curly hair sways softly, steam drifts up from her coffee mug, the fireplace flames flicker, the Christmas tree lights twinkle faintly, and the candle on the coffee table glows. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-07.png](assets/2026-11-07.png).
+> In the animation: her curly hair sways softly, steam drifts up from her coffee mug, the fireplace and candle flames flicker, the Christmas tree lights twinkle faintly, and snow falls slowly outside the window. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-08.png](assets/2026-11-08.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Burgundy faux fur goes floor-length — oversized coats, leopard print, November outfit montages
+### 👗 Fashion — Fur and shearling take over winter — alpine editorials, cropped faux-fur street style
 
-A 94K-like carousel leads with a floor-length oversized burgundy faux-fur coat worn over a sheer leopard-print bodysuit, and a 47K-like lookbook styles a light beige faux-fur hooded jacket open over a striped hoodie with pink sweatpants and silver sneakers. A 5.5K-like "NOVEMBER OUTFITS" montage cycles through about 15 layered looks — burgundy leather midi skirt, beige trench coat, burgundy double-breasted coat, fur-collar brown leather coat — past luxury storefronts, while the cropped brown faux-fur jacket over a black lace bralette keeps resurfacing in subway looks.
+A 24K-like luxury winter editorial leads the day: a woman models voluminous fur and shearling coats — white fur in the snow, a brown fuzzy coat, a black fur coat and a gray shearling jacket — across snowy alpine scenes and Parisian cafés, Hermès bags in hand. A 16K-like street-style carousel keeps it wearable: a voluminous brown faux-fur cropped jacket over light-wash wide-leg jeans with zebra-print pointed shoes. A 9.8K-like carousel posted this morning layers a cream oversized turtleneck poncho sweater over short brown shorts, while a 5.9K-like try-on reel cycles through fall outerwear in a wood-floored living room.
 
-### 🛋️ Home Decor — Christmas decorating goes full burgundy-and-green — crystal trees, flocked trees, tree guides
+### 🛋️ Home Decor — Christmas decorating goes maximalist and handmade — full-house takeovers, paper-chain DIY
 
-A 4.6K-like "Decorate for Christmas with me" reel layers burgundy velvet bows, crystal trees, garland with lights over an arched mirror and stockings under a Santa-painting mantel; an 8.3K-like reel rebuilds a gift display beneath a black marble fireplace, and a 7.2K-like showroom tour assembles a white flocked tree with warm white lights. How-to content keeps pace — a 6.1K-like Michaels guide compares gold tinsel trees and mercury-glass ornaments — while an 11K-like "Dear 2027, I am ready" reel in red plaid pajamas already sets a New Year table.
+A 38K-like reel shows a man decking out his whole colorful home for Christmas early — the day's biggest home post. Handmade wins too: a 33K-like "very merry whimsy homemade Christmas" reel cuts paper-chain garlands from plaid, star and polka-dot scrapbook paper and strings gold stars across a dark green bookshelf. A 20K-like reel decorates one large tree against black paneled doors, and a 10K-like "I was only going to decorate a little" tour admits defeat — multiple trees, garland-wrapped chandeliers, a light-up village on the mantel and dried-orange-slice garlands everywhere.
 
-### 💄 Beauty — "Winterkissed" makeup goes viral — glossy lips, heavy pink blush, shimmery pink eyes
+### 💄 Beauty — "Frosty" makeup freezes over — icy eyes, shimmer sticks, Chanel's snowy holiday campaign
 
-The day's biggest beauty post is a 75K-like "winterkissed makeup" reel — voluminous curled brown hair, glossy lips, heavy pink blush, shimmery pink eyeshadow and winged liner. A 2.6K-like '90s plum tutorial skips bronzer entirely, pairing MERIT mauve cream shadow with a nude-brown liner, Poundcake plum gloss and Gucci berry blush, while a 3K-like fall routine layers Rhode Pocket Bronze with Westman Atelier contour for an everyday warm glow.
+Frosty makeup freezes over. A 19K-like CHANEL Holiday 2025 film opens on a frozen lake and ice skater, then shows glossy pink lips, bright yellow winged liner and the collection laid out on sparkling snow. An 18K-like "alternative winter makeup" tutorial builds a dramatic smoky eye with dark gray, silver and glitter reds. A 16K-like "$9 must have for frosty makeup season" reel dabs one shimmery stick on lips, cheekbones and eyelids for a dewy icy finish. A 4.7K-like transformation pairs icy blue-white shadow with heavy pink blush and glossy pink lips, while a 4.3K-like "pale girl makeup" tutorial embraces fair skin with cool lavender-toned eyes, rosy cheeks and gloss.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-08](data/2026-11-08.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-08.gif) · [Video](assets/2026-11-08.mp4)
 - [2026-11-07](data/2026-11-07.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-07.gif) · [Video](assets/2026-11-07.mp4)
 - [2026-11-06](data/2026-11-06.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-06.gif) · [Video](assets/2026-11-06.mp4)
 - [2026-11-05](data/2026-11-05.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-05.gif) · [Video](assets/2026-11-05.mp4)
