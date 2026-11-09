@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-08
+## Today's Animation · 2026-11-09
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her curly hair sways softly, steam drifts up from her coffee mug, the fireplace and candle flames flicker, the Christmas tree lights twinkle faintly, and snow falls slowly outside the window. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-08.png](assets/2026-11-08.png).
+> In the animation: her long wavy hair sways softly, the fireplace and candle flames flicker, the Christmas tree lights twinkle, the macrame and paper garlands sway almost imperceptibly, and snow falls slowly outside the window. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-09.png](assets/2026-11-09.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Fur and shearling take over winter — alpine editorials, cropped faux-fur street style
+### 👗 Fashion — Holiday party dressing goes sequin and satin — Zara Xmas looks, five-dress showcases, chartreuse sequins
 
-A 24K-like luxury winter editorial leads the day: a woman models voluminous fur and shearling coats — white fur in the snow, a brown fuzzy coat, a black fur coat and a gray shearling jacket — across snowy alpine scenes and Parisian cafés, Hermès bags in hand. A 16K-like street-style carousel keeps it wearable: a voluminous brown faux-fur cropped jacket over light-wash wide-leg jeans with zebra-print pointed shoes. A 9.8K-like carousel posted this morning layers a cream oversized turtleneck poncho sweater over short brown shorts, while a 5.9K-like try-on reel cycles through fall outerwear in a wood-floored living room.
+Holiday party dressing goes sequin and satin. A 520K-like winter editorial carousel opens the day: a snowy shoot with a brown puffer jacket with a green star pattern, cream gloves and a thick knit hooded scarf, plus elevator selfies in a pale yellow coat. A 34K-like "Zara Xmas Looks" reel models five holiday outfits — black satin wide-leg trousers with a sequin bomber, a sheer beaded top, an all-white halter look, a black-and-gold embroidered cropped jacket, and a black sequined halter maxi dress. A 27K-like "Holiday Dresses" showcase presents five evening looks: a black satin-and-lace mermaid midi, champagne satin, a burgundy floral jacquard gown, navy velvet and olive satin. A 26K-like reel goes bold with a chartreuse sequin holiday party outfit — a lime-green sequined mini skirt with an oversized ribbed sweater and silver heels.
 
-### 🛋️ Home Decor — Christmas decorating goes maximalist and handmade — full-house takeovers, paper-chain DIY
+### 🛋️ Home Decor — Handmade Christmas tree garlands take over — macrame trees, paper trees, hydrangea mantels
 
-A 38K-like reel shows a man decking out his whole colorful home for Christmas early — the day's biggest home post. Handmade wins too: a 33K-like "very merry whimsy homemade Christmas" reel cuts paper-chain garlands from plaid, star and polka-dot scrapbook paper and strings gold stars across a dark green bookshelf. A 20K-like reel decorates one large tree against black paneled doors, and a 10K-like "I was only going to decorate a little" tour admits defeat — multiple trees, garland-wrapped chandeliers, a light-up village on the mantel and dried-orange-slice garlands everywhere.
+Handmade Christmas tree garlands take over the mantel. An 88K-like silent tutorial knots a macrame Christmas tree garland — dark green cord looped around a brown core into little trees with tassel trunks and wooden stars, strung on white rope and hung across a fireplace mantel. A 34K-like craft reel folds green paper into three-dimensional trees with gold star toppers, strung on red-and-white twine and hung over a dark wood cabinet under fairy lights. A 32K-like home video assembles a large tree with warm lights, deep red velvet ribbons, plaid bows and dried hydrangeas, plus a magnolia-and-hydrangea garland across a white mantel. An 18K-like mantel tutorial layers cedar garland with red berries, tucks in illuminated ceramic gingerbread houses, hangs four stockings and finishes with a "JOYEUX NOEL" candle under a giant red-and-white striped bow.
 
-### 💄 Beauty — "Frosty" makeup freezes over — icy eyes, shimmer sticks, Chanel's snowy holiday campaign
+### 💄 Beauty — "Cold girl" makeup goes viral — flushed cheeks, glossy lips, olive meets burgundy
 
-Frosty makeup freezes over. A 19K-like CHANEL Holiday 2025 film opens on a frozen lake and ice skater, then shows glossy pink lips, bright yellow winged liner and the collection laid out on sparkling snow. An 18K-like "alternative winter makeup" tutorial builds a dramatic smoky eye with dark gray, silver and glitter reds. A 16K-like "$9 must have for frosty makeup season" reel dabs one shimmery stick on lips, cheekbones and eyelids for a dewy icy finish. A 4.7K-like transformation pairs icy blue-white shadow with heavy pink blush and glossy pink lips, while a 4.3K-like "pale girl makeup" tutorial embraces fair skin with cool lavender-toned eyes, rosy cheeks and gloss.
+"Cold girl" makeup goes viral. A 290K-like reel tries the "cold girl" makeup trend: black winged liner, bright pink blush dabbed on the cheeks and the tip of the nose for a flushed-from-cold look, glossy lips and a plaid scarf to finish. A 38K-like look posted this morning pairs "Olive meets Burgundy" — olive-green eyeshadow with burgundy winged liner and matching burgundy lipstick under a burgundy leather jacket. A 17K-like winter holiday glam tutorial builds soft curls, rosy cheeks, glossy lips and shimmery pink eyes with Armani Luminous Silk and the Flower Knows Strawberry Rococo palette. A 6.9K-like "everyday snow fairy glow" routine layers a Dior Backstage Glow palette on cheekbones with white winged liner and pink blush.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-09](data/2026-11-09.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-09.gif) · [Video](assets/2026-11-09.mp4)
 - [2026-11-08](data/2026-11-08.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-08.gif) · [Video](assets/2026-11-08.mp4)
 - [2026-11-07](data/2026-11-07.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-07.gif) · [Video](assets/2026-11-07.mp4)
 - [2026-11-06](data/2026-11-06.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-06.gif) · [Video](assets/2026-11-06.mp4)
