@@ -1,0 +1,48 @@
+{
+  "animation_gif": "assets/2026-11-10.gif",
+  "animation_mp4": "assets/2026-11-10.mp4",
+  "date": "2026-11-10",
+  "illustration": "assets/2026-11-10.png",
+  "note": "No Instagram account connected. Trends are what is currently popular in these three domains, not a platform-wide census.",
+  "scope": "fashion, home decor, beauty",
+  "source": "public Instagram trend discovery (social.search, platform=instagram, ranked by engagement)",
+  "trends": [
+    {
+      "details": "Sequin party season peaks. An 11K-like Oh Polly reel reveals two identical strapless satin corset minis — one chocolate brown, one black — with sequin-fringe scalloped skirts, lace-up backs and side zippers, draped over mannequins against a deep red velvet curtain. A 10K-like Primark holiday editorial styles nine looks in one shoot: velvet jumpsuits, metallic dresses, sequined tops and sheer mesh, posed on velvet furniture beside a decorated tree. A 9.9K-like reel pairs a burgundy lace strapless midi dress with an olive-green cropped bomber jacket, black stilettos, dark sunglasses and a black clutch. A 7.2K-like styling session builds a silver sequin high-neck blouse with mustard-yellow satin shorts, strappy heels and a bright blue fuzzy bag. A 5.6K-like Amazon find turns a white sheer sequined maxi skirt into a holiday party look with an oversized white sweater, clear heels and champagne. A 5K-like House of CB 'The Holiday' film shows a black sequined slip dress, a red velvet gown and a black lace bodysuit in a candlelit mansion.",
+      "domain": "fashion",
+      "source_posts": [
+        "https://www.instagram.com/reel/Dfjja01T2Gx/",
+        "https://www.instagram.com/p/Dfj3FBMCEO-/",
+        "https://www.instagram.com/reel/DfhqrEFsgWk/",
+        "https://www.instagram.com/reel/Dfh_PDctdSv/",
+        "https://www.instagram.com/reel/DfiGbJJtUhO/",
+        "https://www.instagram.com/reel/Dfg2nysxRFx/"
+      ],
+      "title": "Sequin party season peaks — satin corset minis, burgundy lace, silver sequins"
+    },
+    {
+      "details": "Pink fairy lights and oversized velvet bows take over Christmas decorating. A 74K-like night tour wraps an outdoor deck in pink and white fairy lights, centers a giant tree in red velvet bows, gold baubles and teddy bear ornaments, and ends on an illuminated Christmas village diorama — a carousel, an ice-skating rink, a moving train and a 'BIG TOP' circus tent glowing on the windowsill. A 5.9K-like whole-home montage layers greenery garlands on the kitchen island and staircase, silver-and-burgundy ornaments and a big cream bow on the tree, plus plaid blankets and holiday pillows. A 5.4K-like cinematic walkthrough dresses black entry doors in wreaths and garland, a two-story foyer in fairy lights, and a kitchen bar in a garland arch with mercury-glass ornaments and gold trees. A 5.1K-like farmhouse reveal builds the room around a 7-foot pre-lit Fraser fir in a 'golden glam' theme — gold leaf stems, hydrangea-like flowers and bronze mercury-glass baubles — with a pre-lit garland layered double on the mantel. A 4.7K-like tutorial makes an oversized cream velvet bow for the mantel and pre-tied clipped cream bows for the tree, finished with five lit taper candles wrapped in red satin ribbons.",
+      "domain": "home decor",
+      "source_posts": [
+        "https://www.instagram.com/reel/DfiPlrGo9m8/",
+        "https://www.instagram.com/reel/Dfhzw71BqEk/",
+        "https://www.instagram.com/reel/Dfi-5C_gEqN/",
+        "https://www.instagram.com/reel/Dfh0WGmAZyM/",
+        "https://www.instagram.com/p/Dfhm0YUlVkz/"
+      ],
+      "title": "Pink fairy lights and oversized velvet bows — maximalist Christmas takes over"
+    },
+    {
+      "details": "'I'm cold' makeup and frosty glam lead the day. An 11K-like 'Sad Girl Makeup Look' tutorial layers Huda Beauty 'Icy Nude' shadow, a sharp winged liner, rosy cheeks, glossy pink lips and faux freckles for a soft, smoky eye with a white inner-corner highlight. A 6.6K-like Christmas-inspired tutorial paints candy-cane swirls around the eyes, gingerbread-house lip art with white 'icing' and green details, and red jingle bells above the brows, finished with a red winged liner and dramatic lashes. A 4.6K-like 'I'm cold' makeup tutorial dabs blush low on the cheeks and on the tip of the nose, adds freckles with a pen, white glitter on the lids and cheeks, and a pink lip liner and glaze. A 2.2K-like 'my makeup as soon as it hits november' cut swaps a gray beanie and hoodie for winged liner, heavy lashes, contoured cheeks with pink blush and a glossy brown lip. A 1.7K-like Anastasia Beverly Hills tutorial builds a dark smoky eye with the genesis palette, dramaline liner in 'total eclipse' and glossy nude lips.",
+      "domain": "beauty",
+      "source_posts": [
+        "https://www.instagram.com/reel/DfhwdfgyTON/",
+        "https://www.instagram.com/reel/DfgMZGdN_Pb/",
+        "https://www.instagram.com/reel/DfirIgXgTCN/",
+        "https://www.instagram.com/reel/DfiXqRqC6ZH/",
+        "https://www.instagram.com/reel/DfiPypakh2p/"
+      ],
+      "title": "'I'm cold' makeup and frosty glam — flushed cheeks, glitter, candy-cane art"
+    }
+  ]
+}

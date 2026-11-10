@@ -2,25 +2,25 @@
 
 Every day, we find what's trending on Instagram in fashion, home decor, and beauty — and paint it as a painterly animation.
 
-## Today's Animation · 2026-11-09
+## Today's Animation · 2026-11-10
 
 ![Today's animation](assets/latest.gif)
 
-> In the animation: her long wavy hair sways softly, the fireplace and candle flames flicker, the Christmas tree lights twinkle, the macrame and paper garlands sway almost imperceptibly, and snow falls slowly outside the window. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-09.png](assets/2026-11-09.png).
+> In the animation: her long wavy hair sways softly, the fireplace and candle flames flicker, the Christmas tree lights twinkle, the miniature carousel turns slowly, the tiny skaters glide across the ice rink, and snow falls slowly outside the window. The grain and brushstroke texture of the illustration is preserved all the way through — never smoothed out, never recolored. HD video version: [assets/latest.mp4](assets/latest.mp4). Still illustration: [assets/2026-11-10.png](assets/2026-11-10.png).
 
 ## Today's Trends
 
-### 👗 Fashion — Holiday party dressing goes sequin and satin — Zara Xmas looks, five-dress showcases, chartreuse sequins
+### 👗 Fashion — Sequin party season peaks — satin corset minis, burgundy lace, silver sequins
 
-Holiday party dressing goes sequin and satin. A 520K-like winter editorial carousel opens the day: a snowy shoot with a brown puffer jacket with a green star pattern, cream gloves and a thick knit hooded scarf, plus elevator selfies in a pale yellow coat. A 34K-like "Zara Xmas Looks" reel models five holiday outfits — black satin wide-leg trousers with a sequin bomber, a sheer beaded top, an all-white halter look, a black-and-gold embroidered cropped jacket, and a black sequined halter maxi dress. A 27K-like "Holiday Dresses" showcase presents five evening looks: a black satin-and-lace mermaid midi, champagne satin, a burgundy floral jacquard gown, navy velvet and olive satin. A 26K-like reel goes bold with a chartreuse sequin holiday party outfit — a lime-green sequined mini skirt with an oversized ribbed sweater and silver heels.
+Sequin party season peaks. An 11K-like Oh Polly reel reveals two identical strapless satin corset minis — one chocolate brown, one black — with sequin-fringe scalloped skirts, draped over mannequins against a deep red velvet curtain. A 10K-like Primark holiday editorial styles nine looks in one shoot: velvet jumpsuits, metallic dresses, sequined tops and sheer mesh, posed on velvet furniture beside a decorated tree. A 9.9K-like reel pairs a burgundy lace strapless midi dress with an olive-green cropped bomber jacket, black stilettos, dark sunglasses and a black clutch. A 7.2K-like styling session builds a silver sequin high-neck blouse with mustard-yellow satin shorts, strappy heels and a bright blue fuzzy bag. A 5.6K-like Amazon find turns a white sheer sequined maxi skirt into a holiday party look with an oversized white sweater, clear heels and champagne. A 5K-like House of CB "The Holiday" film shows a black sequined slip dress, a red velvet gown and a black lace bodysuit in a candlelit mansion.
 
-### 🛋️ Home Decor — Handmade Christmas tree garlands take over — macrame trees, paper trees, hydrangea mantels
+### 🛋️ Home Decor — Pink fairy lights and oversized velvet bows — maximalist Christmas takes over
 
-Handmade Christmas tree garlands take over the mantel. An 88K-like silent tutorial knots a macrame Christmas tree garland — dark green cord looped around a brown core into little trees with tassel trunks and wooden stars, strung on white rope and hung across a fireplace mantel. A 34K-like craft reel folds green paper into three-dimensional trees with gold star toppers, strung on red-and-white twine and hung over a dark wood cabinet under fairy lights. A 32K-like home video assembles a large tree with warm lights, deep red velvet ribbons, plaid bows and dried hydrangeas, plus a magnolia-and-hydrangea garland across a white mantel. An 18K-like mantel tutorial layers cedar garland with red berries, tucks in illuminated ceramic gingerbread houses, hangs four stockings and finishes with a "JOYEUX NOEL" candle under a giant red-and-white striped bow.
+Pink fairy lights and oversized velvet bows take over Christmas decorating. A 74K-like night tour wraps an outdoor deck in pink and white fairy lights, centers a giant tree in red velvet bows, gold baubles and teddy bear ornaments, and ends on an illuminated Christmas village diorama — a carousel, an ice-skating rink, a moving train and a "BIG TOP" circus tent glowing on the windowsill. A 5.9K-like whole-home montage layers greenery garlands on the kitchen island and staircase, silver-and-burgundy ornaments and a big cream bow on the tree, plus plaid blankets and holiday pillows. A 5.4K-like cinematic walkthrough dresses black entry doors in wreaths and garland, a two-story foyer in fairy lights, and a kitchen bar in a garland arch with mercury-glass ornaments and gold trees. A 5.1K-like farmhouse reveal builds the room around a 7-foot pre-lit Fraser fir in a "golden glam" theme — gold leaf stems, hydrangea-like flowers and bronze mercury-glass baubles — with a pre-lit garland layered double on the mantel. A 4.7K-like tutorial makes an oversized cream velvet bow for the mantel and pre-tied clipped cream bows for the tree, finished with five lit taper candles wrapped in red satin ribbons.
 
-### 💄 Beauty — "Cold girl" makeup goes viral — flushed cheeks, glossy lips, olive meets burgundy
+### 💄 Beauty — "I'm cold" makeup and frosty glam — flushed cheeks, glitter, candy-cane art
 
-"Cold girl" makeup goes viral. A 290K-like reel tries the "cold girl" makeup trend: black winged liner, bright pink blush dabbed on the cheeks and the tip of the nose for a flushed-from-cold look, glossy lips and a plaid scarf to finish. A 38K-like look posted this morning pairs "Olive meets Burgundy" — olive-green eyeshadow with burgundy winged liner and matching burgundy lipstick under a burgundy leather jacket. A 17K-like winter holiday glam tutorial builds soft curls, rosy cheeks, glossy lips and shimmery pink eyes with Armani Luminous Silk and the Flower Knows Strawberry Rococo palette. A 6.9K-like "everyday snow fairy glow" routine layers a Dior Backstage Glow palette on cheekbones with white winged liner and pink blush.
+"I'm cold" makeup and frosty glam lead the day. An 11K-like "Sad Girl Makeup Look" tutorial layers Huda Beauty "Icy Nude" shadow, a sharp winged liner, rosy cheeks, glossy pink lips and faux freckles for a soft, smoky eye with a white inner-corner highlight. A 6.6K-like Christmas-inspired tutorial paints candy-cane swirls around the eyes, gingerbread-house lip art with white "icing" and green details, and red jingle bells above the brows, finished with a red winged liner and dramatic lashes. A 4.6K-like "I'm cold" makeup tutorial dabs blush low on the cheeks and on the tip of the nose, adds freckles with a pen, white glitter on the lids and cheeks, and a pink lip liner and glaze. A 2.2K-like "my makeup as soon as it hits november" cut swaps a gray beanie and hoodie for winged liner, heavy lashes, contoured cheeks with pink blush and a glossy brown lip. A 1.7K-like Anastasia Beverly Hills tutorial builds a dark smoky eye with the genesis palette, dramaline liner in "total eclipse" and glossy nude lips.
 
 ## How It Works, Every Day
 
@@ -54,6 +54,7 @@ instagram-daily-trends/
 
 ## Archive
 
+- [2026-11-10](data/2026-11-10.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-10.gif) · [Video](assets/2026-11-10.mp4)
 - [2026-11-09](data/2026-11-09.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-09.gif) · [Video](assets/2026-11-09.mp4)
 - [2026-11-08](data/2026-11-08.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-08.gif) · [Video](assets/2026-11-08.mp4)
 - [2026-11-07](data/2026-11-07.json) — Fashion / Home Decor / Beauty · Animation: [GIF](assets/2026-11-07.gif) · [Video](assets/2026-11-07.mp4)
